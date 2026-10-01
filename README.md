@@ -1,36 +1,19 @@
-\# Physics-Informed Neural Networks Constrained by TRIZ Principles for Crustal Stress Reconstruction
+# Physics-Informed Neural Networks Constrained by TRIZ Principles for Crustal Stress Reconstruction
 
-
-
-\[!\[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-\[!\[Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
-
-\[!\[DeepXDE](https://img.shields.io/badge/DeepXDE-1.9+-orange.svg)](https://github.com/lululxvi/deepxde)
-
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
+[![DeepXDE](https://img.shields.io/badge/DeepXDE-1.9+-orange.svg)](https://github.com/lululxvi/deepxde)
 
 Official code repository for the manuscript:
+**"Physics-Informed Neural Networks Constrained by TRIZ Principles for Crustal Stress Reconstruction from Sparse Seismic Data"**
 
-\*\*"Physics-Informed Neural Networks Constrained by TRIZ Principles for Crustal Stress Reconstruction from Sparse Seismic Data"\*\*
-
-
-
-\*\*Authors:\*\* Mohammed El Amine Fodil<sup>1,\*</sup>, Merwan Abdelbari<sup>1</sup>, Meriem Fodil<sup>1</sup>  
-
+**Authors:** Mohammed El Amine Fodil<sup>1,*</sup>, Merwan Abdelbari<sup>1</sup>, Meriem Fodil<sup>1</sup>  
 <sup>1</sup> University Centre of Maghnia, Algeria  
+<sup>*</sup> Corresponding author
 
-<sup>\*</sup> Corresponding author 
+---
 
-
-
-\---
-
-
-
-\## 📌 Repository Structure
-
-
+## 📌 Repository Structure
 
 ```plaintext
 TRIZ-PINN-Crustal-Stress/
@@ -42,5 +25,3 @@ TRIZ-PINN-Crustal-Stress/
 ├── LICENSE           <-- MIT Open-Source License
 ├── README.md         <-- Project Overview & Replication Instructions
 └── requirements.txt  <-- Required Python libraries
-```
-
