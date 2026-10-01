@@ -33,22 +33,14 @@ Official code repository for the manuscript:
 
 
 ```plaintext
-
 TRIZ-PINN-Crustal-Stress/
-
 ├── .github/          <-- CI/CD Workflows for automated code testing
-
-├── data/             <-- Real \& processed seismic catalog datasets (USGS Algeria)
-
+├── data/             <-- Real & processed seismic catalog datasets (USGS Algeria)
 ├── docs/             <-- Manuscript source files and high-resolution figures
-
 ├── models/           <-- Trained PyTorch model checkpoints (.pt)
-
 ├── src/              <-- Core execution scripts (Phase 1, Phase 2, Phase 3)
-
 ├── LICENSE           <-- MIT Open-Source License
-
-├── README.md         <-- Project Overview \& Replication Instructions
-
+├── README.md         <-- Project Overview & Replication Instructions
 └── requirements.txt  <-- Required Python libraries
+```
 
