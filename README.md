@@ -7,9 +7,11 @@
 Official code repository for the manuscript:
 **"Physics-Informed Neural Networks Constrained by TRIZ Principles for Crustal Stress Reconstruction from Sparse Seismic Data"**
 
-**Authors:** Mohammed El Amine Fodil<sup>1,*</sup>, Merwan Abdelbari<sup>1</sup>, Meriem Fodil<sup>1</sup>  
-<sup>1</sup> University Centre of Maghnia, Algeria  
-<sup>*</sup> Corresponding author
+**Authors:** Mohamed El Amine Fodil<sup>1,2,*</sup>, Merwan Abdelbari<sup>3</sup>, Meriem Fodil<sup>3</sup>  
+<sup>1</sup> Department of Hydraulics, Maghnia University Centre, Tlemcen, Algeria  
+<sup>2</sup> Laboratoire Ingénierie et Sciences Appliquées (IScApp), Maghnia, Tlemcen, Algeria  
+<sup>3</sup> Department of Mechanics, Hassiba Ben Bouali University, Chlef, Algeria  
+<sup>*</sup> **Corresponding Author Email:** fodilmedam@gmail.com
 
 ---
 
